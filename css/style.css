@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'Koruri';
+  src: url('../fonts/Koruri-Regular-sub.eot');
+  src: url('../fonts/Koruri-Regular-sub.eot?#iefix') format('embedded-opentype');
+  src: url('../fonts/Koruri-Regular-sub.woff') format('woff'),
+       url('../fonts/Koruri-Regular-sub.ttf') format('truetype');
+  /*  for chrome  */
+  src: url(../fonts/Koruri-Regular-sub.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  background-image: url("../img/naf-tegaki.png");
+  background-repeat: repeat;
+  font-family: Koruri !important;
+}
+
+.gh-black {
+  background: #ffffff;
+  color: #000000;
+}
+
+.codepen-white {
+  color: #ffffff;
+  background: #000000;
+}
+
+.li-blue {
+  background: #007bb5;
+  color: #ffffff;
+}
+#logo-img {
+  padding: 20px;
+  // max-width: 75px;
+  //  max-height: 75x;
+}
+
+#intro {
+  // padding: 30px;
+  margin-top: 50px;
+  font-size: 24px;
+  font-weight: 200;
+}
+
+section {
+ padding-top: 50px;
+  margin-top: -50px;
+}
+
+.social-btn {
+  width: 275px;
+
+}
+.btn {
+   text-transform: capitalize;
+    margin-top: 2.5px;
+  margin-bottom: 2.5px;
+
+}
+
+.collapsible-body {
+  background: white;
+}
+
+.collapsible-body > ul {
+  padding: 25px;
+}
+
+.btn-large {
+  width: 275px;
+}
+.side-nav > li > a {
+  color: white;
+}
+
+footer {
+   height: 50px;
+}
+#donate {
+  padding-bottom: 600px;
+}
