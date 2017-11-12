@@ -1,2 +1,2 @@
 # naf
-(https://auri.ga/naf)[ぽーとふぉりお]
+[ぽーとふぉりお](https://auri.ga/naf)
